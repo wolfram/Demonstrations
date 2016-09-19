@@ -2,7 +2,7 @@
 
 ![Wolfram](http://demonstrations.wolfram.com/images/powered-by.png)
 
-In 2007, [Wolfram Research](http://www.wolfram.com/) introduced a new paradigm for instant interactivity, and created this site as a library dedicated to this innovative technology. This venture has been a remarkable community effort, with several thousand Demonstrations so far, and new ones added every day.
+In 2007, [Wolfram Research](http://www.wolfram.com/) introduced a new paradigm for instant interactivity, and created the site as a library dedicated to this innovative technology. This venture has been a remarkable community effort, with several thousand Demonstrations so far, and new ones added every day.
 
 Any Mathematica user can contribute Demonstrations—you don't have to be an expert. Demonstrations can be on any topic you'd like—from everyday life to front-line scientific research.
 
@@ -12,38 +12,38 @@ Once reviewed, Demonstrations are published on our website, with complete author
 
 ![1](http://demonstrations.wolfram.com/images/stepone.png)
 **Illustrate your concept in Mathematica using [Manipulate](http://reference.wolfram.com/mathematica/ref/Manipulate.html).** 
-[Authoring guidelines](http://demonstrations.wolfram.com/guidelines.html) are available.
+*[Authoring guidelines](http://demonstrations.wolfram.com/guidelines.html) are available.*
 
 ![2](http://demonstrations.wolfram.com/images/steptwo.png)
 **Complete the Demonstrations authoring notebook.**
-In Mathematica, the notebook is available by selecting File > New > Demonstration.
+*In Mathematica, the notebook is available by selecting File > New > Demonstration.*
 
 ![3](http://demonstrations.wolfram.com/images/stepthree.png)
-**[Upload](http://demonstrations.wolfram.com/participate/upload.jsp) your finished notebook to your [authoring area](http://demonstrations.wolfram.com/participate/authoringarea.jsp).**
-After a few minutes, a fully built web preview of your Demonstration will appear.
+**[Upload](http://demonstrations.wolfram.com/participate/upload.jsp) your finished notebook to your [authoring area](http://demonstrations.wolfram.com/participate/authoringarea.jsp).** *After a few minutes, a fully built web preview of your Demonstration will appear.*
 
 ![4](http://demonstrations.wolfram.com/images/stepfour.png)
 **Submit your Demonstration for publication.**
 
 ##### [Read more about authoring Demonstrations »](http://demonstrations.wolfram.com/guidelines.html)
 
-# LEGAL INFORMATION
+
+# Legal Information
 #### Wolfram Demonstrations Project Terms and Conditions of Use
-The Wolfram Demonstrations Project (in website or embedded form hereby referred to as "this Site") is an informational resource made freely available by Wolfram Research subject to the Terms of Use herein.
+The Wolfram Demonstrations Project (in website or embedded form hereby referred to as "the Site") is an informational resource made freely available by Wolfram Research subject to the Terms of Use herein.
 
-#### Use of This Site
+#### Use of The Site
 
-- You may not mirror this Site.
-- You may not use this Site for any purpose that is unlawful or dangerous.
-- You may not use this Site in any manner that could damage, disable, overburden, or impair this Site, or any network connected to this Site, or unduly interfere with any other party's use and enjoyment of this Site.
-- You assume total responsibility and risk for your use of this Site.
-- You may not access this Site or its underlying functionality in any way other than its intended interface in a standard web browser or by any automated or alternative interface.
-- You may not present this Site with any alteration to its trade dress, trademarks, or design.
-- If you use the embedding option to include a Demonstration on your website, you may not modify, build upon, or block any portion or functionality of the content or display, including but not limited to links back to this Site.
+- You may not mirror the Site.
+- You may not use the Site for any purpose that is unlawful or dangerous.
+- You may not use the Site in any manner that could damage, disable, overburden, or impair the Site, or any network connected to the Site, or unduly interfere with any other party's use and enjoyment of the Site.
+- You assume total responsibility and risk for your use of the Site.
+- You may not access the Site or its underlying functionality in any way other than its intended interface in a standard web browser or by any automated or alternative interface.
+- You may not present the Site with any alteration to its trade dress, trademarks, or design.
+- If you use the embedding option to include a Demonstration on your website, you may not modify, build upon, or block any portion or functionality of the content or display, including but not limited to links back to the Site.
 
-All content on this Site is licensed under the Creative Commons Attribution—NonCommercial—ShareAlike 3.0 Unported License. By accessing this Site or using it in any way, you accept and agree to be bound by the terms of this license. If you do not agree to these Terms of Use, you may not use this Site or content obtained from this Site. Wolfram Research reserves the right to change, modify, add to, or remove portions of these Terms of Use at any time without notice. Please refer back to this page for the latest Terms of Use.
+All content on the Site is licensed under the Creative Commons Attribution—NonCommercial—ShareAlike 3.0 Unported License. By accessing the Site or using it in any way, you accept and agree to be bound by the terms of this license. If you do not agree to these Terms of Use, you may not use the Site or content obtained from the Site. Wolfram Research reserves the right to change, modify, add to, or remove portions of these Terms of Use at any time without notice. Please refer back to this page for the latest Terms of Use.
 
-If you are a corporation or academic institution using this Site or any content therefrom in the enhancement of your own website, product, or services, you hereby give Wolfram Research license to use your name and logo in identifying you as a user/partner of the Demonstrations Project.
+If you are a corporation or academic institution using the Site or any content therefrom in the enhancement of your own website, product, or services, you hereby give Wolfram Research license to use your name and logo in identifying you as a user/partner of the Demonstrations Project.
 
 A summary of the licensing terms can be found at:
 http://creativecommons.org/licenses/by-nc-sa/3.0
