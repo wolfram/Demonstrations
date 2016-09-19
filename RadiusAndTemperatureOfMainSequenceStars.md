@@ -66,11 +66,11 @@ PreserveImageOptions->Automatic]
 The relationship shown in this Demonstration is based on data from A. N. Cox, ed., Allen's Astrophysical Quantities, 4th ed., New York: AIP Press (Springer), 2000.
 
 #### RELATED LINKS
-[Blackbody (ScienceWorld)](http://mathworld.wolfram.com/Blackbody.html)
+[Blackbody (ScienceWorld)](http://scienceworld.wolfram.com/physics/Blackbody.html)
 
-[Main Sequence (ScienceWorld)](http://mathworld.wolfram.com/MainSequence.html)
+[Main Sequence (ScienceWorld)](http://scienceworld.wolfram.com/astronomy/MainSequence.html)
 
-[Star (ScienceWorld)](http://mathworld.wolfram.com/Star.html)
+[Star (ScienceWorld)](http://scienceworld.wolfram.com/astronomy/Star.html)
 
 #### PERMANENT CITATION
 [Jeff Bryant](http://demonstrations.wolfram.com/author.html?author=Jeff%20Bryant)
