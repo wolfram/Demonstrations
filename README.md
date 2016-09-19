@@ -26,8 +26,8 @@ After a few minutes, a fully built web preview of your Demonstration will appear
 **Submit your Demonstration for publication.**
 
 ##### [Read more about authoring Demonstrations »](http://demonstrations.wolfram.com/guidelines.html)
-### LEGAL INFORMATION
-----------
+
+# LEGAL INFORMATION
 #### Wolfram Demonstrations Project Terms and Conditions of Use
 The Wolfram Demonstrations Project (in website or embedded form hereby referred to as "this Site") is an informational resource made freely available by Wolfram Research subject to the Terms of Use herein.
 
