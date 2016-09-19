@@ -44,7 +44,7 @@ AutorunSequencing->{3,4,5,2},
 TrackedSymbols:>{i,palt,m,n,athn},
 Initialization:>{(*dither a 2D array of point{x,y}coordinates*)
 dither[pts_,dith_]:=pts+.25 dith RandomReal[{-1,1},{Length@pts,2}];
-images=Join[ExampleData /@ {{"TestImage", "Peppers"}, {"TestImage", "Mandrill"}, {"TestImage", "Lena"},{"TestImage", "Tiffany"}}, {ImageCrop[Entity["Artwork", "MonaLisa::LeonardoDaVinci"]["Image"], {96, 96}, Bottom]}];
+images=ImageResize[#, 150] & /@Join[ExampleData /@ {{"TestImage", "Peppers"}, {"TestImage", "Mandrill"}, {"TestImage", "Lena"},{"TestImage", "Tiffany"}}, {ImageCrop[Entity["Artwork", "MonaLisa::LeonardoDaVinci"]["Image"], {96, 96}, Bottom]}];
 thumbs = ImageResize[#, 80] & /@ images}]
 ```
 #### RELATED LINKS
